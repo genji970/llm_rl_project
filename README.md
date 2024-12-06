@@ -12,11 +12,15 @@ single process &amp; distributed process : 단일 학습과 병렬학습
 
 3) ## distributed_learning_for_actor_critic_half_cheetah_by_Ray ##
    
-  using ray, multi process learning for half cheetah v4. ray를 사용한 half cheetah v4 분산학습<br> not finished
+  using ray, multi process learning for half cheetah v4. ray를 사용한 half cheetah v4 분산학습
+  
+  not finished
 
 4) ## aws sage maker for llm ##
 
  
-  dockerfile(for dependencies , image build in local env) + pyhon files + script to run<br> not finished 
+  dockerfile(for dependencies , image build in local env) + pyhon files + script to run
+  
+  not finished 
 
 
