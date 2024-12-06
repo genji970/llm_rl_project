@@ -5,7 +5,7 @@ single process &amp; distributed process : 단일 학습과 병렬학습
 
 2) contrastive_preference_optimization_pushing_the_boundaries_of_LLM_performance_in_machine_translation llm paper<br> contrastive preference opt code implementation in colab env for data prerprocessing and model fine tuning parts. colab 환경에서 llm 논문 데이터 전처리 ~ model 파인튜닝까지의 과정
 
-4) distributed_learning_for_actor_critic_half_cheetah_by_Ray  \n
+4) distributed_learning_for_actor_critic_half_cheetah_by_Ray<br>
 using ray, multi process learning for half cheetah v4. ray를 사용한 half cheetah v4 분산학습
 
 
