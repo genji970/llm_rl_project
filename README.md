@@ -1,5 +1,5 @@
 # llm_rl_project
-single process &amp; distributed process : 단일 학습과 병렬학습
+single process &amp; distributed process + paper review or coding : 단일 학습과 병렬학습 + 논문 리뷰 or 구현
 
 1) ## Chatbot_Reduction in execution time_with reference to paper "Enhancing Robustness in Large Language Models : Prompting for Mitigating the Impact of Irrelevant Information" ##
 
