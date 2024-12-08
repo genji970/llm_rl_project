@@ -13,7 +13,9 @@ single process &amp; distributed process + paper review or coding : 단일 학�
 3) ## distributed_learning_for_actor_critic_half_cheetah_by_Ray ##
    
   using ray, multi process learning for half cheetah v4. ray를 사용한 half cheetah v4 분산학습
-  
+
+  making appropriate workers , num_cpus is necessary
+
   (not finished)
 
 4) ## aws sage maker for llm ##
